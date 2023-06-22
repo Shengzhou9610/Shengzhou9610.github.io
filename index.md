@@ -16,7 +16,7 @@ My current research focuses on several interesting cases I've been dealing with 
 
 ## News and Updates
 
-- **<font color='red'>[News]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+- **<font color='red'>[News]</font> I am looking for a Residency Program to start in 2024. Contact me if you have any leads!**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
