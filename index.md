@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://shengzhou9610.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
 Here is **Shengzhou Wen (Michael, [温胜宙](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
