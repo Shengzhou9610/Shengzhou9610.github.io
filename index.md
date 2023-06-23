@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://shengzhou9610.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
 
-Here is **Shengzhou Wen (Michael, [温胜宙](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Shengzhou Wen ( [温胜宙](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I graduated from Shanghai Medical College of Fudan University with a bachelor's degree in clinical science. I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
