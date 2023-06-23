@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shengzhou Wen ( [温胜宙](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I graduated from Shanghai Medical College of Fudan University with a bachelor's degree in clinical science. I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I‘ve graduated from Shanghai Medical College of Fudan University with a bachelor's degree in clinical science in 2021. I'm a PhD candidate right now, mainly focusing on stem intestinal cell and Hippo pathway. I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
@@ -17,7 +17,7 @@ My current research focuses on several interesting cases I've been dealing with 
 ## News and Updates
 
 - **<font color='red'>[News]</font> I am looking for a Residency Program to start in 2024. Contact me if you have any leads!**
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
+- **May 2023：**Happy to be awarded the ShanghaiAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
