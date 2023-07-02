@@ -4,9 +4,19 @@ permalink: /projects/index.html
 title: Rotations
 ---
 
-# Research Projects
+# Clinical Rotations in US
 
-P.S., click the hyperlink title to access the source.<br>
+2022 June                                 University of Alabama at Birmingham - Interventional Radiology at Heart and Vascular Center                                                     -Dr. Junjian Huang 
+
+​                                                  • hand-on procedure under supervision-Percutaneous coronary intervention, Balloon angioplasty
+​                                                  • Give a presentation on "tubes and tunnels: indicaion & contraindication“ 
+
+2022 Nov-Dec                          University of Miami Health Center& Jackson Memorial Hospital Observation Endocrinology             
+
+​                                                      Outpatient & Research Discussion Dr. Roy Weiss, chairman of medicine department 
+
+​                                                    • Differential diagnosis of Familial Dysalbuminemic Hyperthyroxinemia witnessed the thyroid node         biopsy guided by ultrasound
+​                                                     • Discuss with the group on Identification of mutations in the TG gene or TPO gene<br>
 
 #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
@@ -22,11 +32,9 @@ P.S., click the hyperlink title to access the source.<br>
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### 
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
+
 
 <br>
 
