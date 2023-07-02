@@ -12,15 +12,21 @@ title: Rotations
 
 ​                      • Give a presentation on "tubes and tunnels: Indication & contraindication“
 
+
+
 **2022 Nov-Dec** **University of Miami Health Center& Jackson Memorial Hospital Observation Endocrinology Outpatient & Research Discussion** Dr. Roy Weiss, chairman of medicine department
 
 ​                      • Differential diagnosis of Familial Dysalbuminemic Hyperthyroxinemia witnessed the thyroid node biopsy guided by ultrasound
 
 ​                      • Discuss with the group on Identification of mutations in the TG gene or TPO gene
 
+
+
 **2022 Nov**      **Endocrinology Inpatient** Dr. Mark Jara 
 
 ​                      • Discuss about the clinical pathway for thyroid nodules and help with the patient education on treatment strategy
+
+
 
 **2022 Dec**      **Gastroenterology Inpatient** Dr. Emory Manten
 
@@ -33,9 +39,13 @@ title: Rotations
 
 ​                      • Help with computer-related technical problems on Christmas
 
+
+
 **2023 Jan**      **Houston Methodist Hospital**-**General Internal Medicine** Dr. Umar Darr
 
 ​                       • help with the physican to switch airborne prevention measures into the use of gloves and gowns in time for a suspected C. Diff infection
+
+
 
 **2023 Feb**      **Houston Methodist Hospital - General Internal Medicine**  Dr. Mashroor Jahan
 
