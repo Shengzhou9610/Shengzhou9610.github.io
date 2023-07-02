@@ -18,11 +18,7 @@ Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanl
 
 - [*Consideration of misdiagnosing gastric carcinoma with erosive gastritis*](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Shengzhou Wen**<br>Post Presentation 28th Society of General Internal Medicine New England<br>Boston, Massachusetts. Sept, 2022.  Poster
 
--  "*Nontypical ectopic ACTH syndrome cause by pneumonia: A case report*" 
-
-  **Shengzhou Wen**<br>
-
-  Poster Presentation Society of General Internal Medicine Mid-Atlantic                                                                                                      Virtual Online, USA Oct, 2022.  [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+-  "*Nontypical ectopic ACTH syndrome cause by pneumonia: A case report*"                                                                                           **Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mid-Atlantic                                                                                                      Virtual Online, USA Oct, 2022.  [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
 - [*Sjögren's syndrome with nephrogenic diabetes insipidus as the first manifestation: A*
   *case report*](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mid-West                                                                                                           St. Louis, Missouri Oct, 2022.
