@@ -16,9 +16,22 @@ Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanl
 
 ## Conference Paper
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [*Consideration of misdiagnosing gastric carcinoma with erosive gastritis*](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Shengzhou Wen**<br>
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.
+  Post Presentation 28th Society of General Internal Medicine New England<br>Boston, Massachusetts. Sept, 2022.  Poster
+
+-  "*Nontypical ectopic ACTH syndrome cause by pneumonia: A case report*" 
+
+  **Shengzhou Wen**<br>
+
+  Poster Presentation Society of General Internal Medicine Mid-Atlantic 
+
+  Virtual Online, USA Oct, 2022.  [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+
+- [*Sjögren's syndrome with nephrogenic diabetes insipidus as the first manifestation: A*
+  *case report*](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mid-West 
+
+  St. Louis, Missouri Oct, 2022.
 
 <br>
 
