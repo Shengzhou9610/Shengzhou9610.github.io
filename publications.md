@@ -10,9 +10,7 @@ Lastest Update: 16th June 2023
 
 ## Thesis
 
-- [Functions and regulations of the Hippo signaling pathway intestinal homeostasis and tumorigenesis](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Shengzhou Wen** (Advisor: Prof. Zhezhuang Xu)<br>
-
-  Research about hippo signaling by intestinal organoid<br>
+- [Functions and regulations of the Hippo signaling pathway intestinal homeostasis and tumorigenesis](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Shengzhou Wen** (Advisor: Prof. Zhezhuang Xu)<br>Research about hippo signaling by intestinal organoid<br>
 
 ## Conference Paper
 
