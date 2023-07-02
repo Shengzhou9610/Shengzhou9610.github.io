@@ -10,9 +10,9 @@ Lastest Update: 16th June 2023
 
 ## Thesis
 
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Hanlin Cai** (Advisor: Prof. Zhezhuang Xu)<br>Industrial Placement Thesis in Huading Tech and IACTIP Lab
+- [Functions and regulations of the Hippo signaling pathway intestinal homeostasis and tumorigenesis](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Shengzhou Wen** (Advisor: Prof. Zhezhuang Xu)<br>
 
-<br>
+  Research about hippo signaling by intestinal organoid<br>
 
 ## Conference Paper
 
