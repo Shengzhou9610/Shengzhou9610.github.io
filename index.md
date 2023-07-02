@@ -20,9 +20,13 @@ My current research focuses on several interesting cases I've been dealing with 
 - **Apr 2023：**Co-author:"*Influencing factors of hypoglycemia events in patients with type 2 diabetes*
   *during hospitalization in Huadong Hospital: a meta-analysis*" revised and accepted by
   Chinese Evidence-based Nursing- 2023 April ！
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
+- **Oct 2022:**"Nontypical ectopic ACTH syndrome cause by pneumonia: A case report" Poster
+  Presentation Society of General Internal Medicine Mid-Atlantic 2022 Oct
+- **Oct 2022:** “Sjögren's syndrome with nephrogenic diabetes insipidus as the first manifestation: A
+  case report” Poster Presentation Society of General Internal Medicine Mid-West 2022 Oct
+- **Sep 2022：**"Consideration of misdiagnosing gastric carcinoma with erosive gastritis" Poster
+  Presentation Society of General Internal Medicine New England 2022 Sept
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
+- **Sep 2020：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
