@@ -6,8 +6,6 @@ title: Rotations
 
 # Clinical Rotations in US
 
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
 **2022 June   University of Alabama at Birmingham** - Interventional Radiology at Heart and Vascular Center -Dr. Junjian Huang
 
 ​                      • Hand-on procedure under supervision-Percutaneous coronary intervention, Balloon angioplasty
@@ -31,6 +29,8 @@ title: Rotations
 ​                       **Hepatology Transplant Inpatient** Dr. Christopher O'brien
 
 ​                      • Give out possible resources for the unknown reason ascites - SAAG calculation
+​                      
+
 ​                      • Help with computer-related technical problems on Christmas
 
 **2023 Jan**      **Houston Methodist Hospital**-**General Internal Medicine** Dr. Umar Darr
@@ -40,6 +40,8 @@ title: Rotations
 **2023 Feb**      **Houston Methodist Hospital - General Internal Medicine**  Dr. Mashroor Jahan
 
 ​                      • taught the patient the proper use of a spirometer and how to gauge the appropriate flow rate
+​                      
+
 ​                      • give a presentation on immunosuppressive drug for renal transplant patient
 
 <center>
