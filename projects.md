@@ -8,6 +8,18 @@ title: Rotations
 
 #### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
 
+**2022 June   University of Alabama at Birmingham** - Interventional Radiology at Heart and Vascular Center -Dr. Junjian Huang
+
+​                      • hand-on procedure under supervision-Percutaneous coronary intervention, Balloon angioplasty
+
+​                      
+
+​                       • Give a presentation on "tubes and tunnels: Indication & contraindication“
+
+
+
+
+
 <center>
 <img src="/images/resnet-ahp.png">
 </center>
