@@ -54,37 +54,13 @@ title: Rotations
 
 ​                      • give a presentation on immunosuppressive drug for renal transplant patient
 
-<center>
-<img src="/images/resnet-ahp.png">
-</center>
-
-<br>
-
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
-<center>
-<img src="/images/MCM-figure3.jpg">
-</center>
-<br>
-
-#### 
-
-
-
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
 <br>
 
 <br>
 
 ---
 
-# Open-source Projects
+# Open resource 
 
 <br>
 
