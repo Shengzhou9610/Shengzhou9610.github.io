@@ -6,7 +6,7 @@ title: Rotations
 
 # Clinical Rotations in US
 
-2022 June                                 University of Alabama at Birmingham - Interventional Radiology at Heart and Vascular Center
+**2022 June**                                 University of Alabama at Birmingham - Interventional Radiology at Heart and Vascular Center
 
 ​                                                   -Dr. Junjian Huang 
 
@@ -15,7 +15,7 @@ title: Rotations
 
 ​                                                  • Give a presentation on "tubes and tunnels: Indicaion & Contraindication“ 
 
-2022 Nov-Dec                         University of Miami Health Center& Jackson Memorial Hospital Observation Endocrinology             
+**2022 Nov-Dec**                         University of Miami Health Center& Jackson Memorial Hospital Observation Endocrinology             
 
 ​                                                      Outpatient & Research Discussion Dr. Roy Weiss, chairman of medicine department 
 
