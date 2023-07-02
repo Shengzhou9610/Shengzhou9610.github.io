@@ -19,9 +19,9 @@ title: Rotations
 
 ​                                                      Outpatient & Research Discussion Dr. Roy Weiss, chairman of medicine department 
 
-​                                                  • Differential diagnosis of Familial Dysalbuminemic Hyperthyroxinemia witnessed the thyroid 
+​                                                  • Differential diagnosis of Familial Dysalbuminemic Hyperthyroxinemia witnessed the thyroid biopsy 
 
-​                                                      biopsy nodes guided by ultrasound
+​                                                     nodes guided by ultrasound
 
 ​                                                  • Discuss with the group on Identification of mutations in the TG gene or TPO gene<br>
 
