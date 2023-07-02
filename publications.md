@@ -6,7 +6,7 @@ title: Publications
 
 # Publications
 
-Lastest Update: 16th June 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+Lastest Update: 16th June 2023
 
 ## Thesis
 
