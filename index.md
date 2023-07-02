@@ -26,7 +26,7 @@ My current research focuses on several interesting cases I've been dealing with 
   case report” Poster Presentation Society of General Internal Medicine Mid-West 2022 Oct
 - **Sep 2022：**"Consideration of misdiagnosing gastric carcinoma with erosive gastritis" Poster
   Presentation Society of General Internal Medicine New England 2022 Sept
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
+- **Feb 2023：**[**FDU-Intestinal Organoid Cultivation 隐窝提取培养步骤**](https://fzu-fly.online/) has been available!
 - **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
 - **Sep 2020：**Happy to be nominated for the China National Scholarship.
 - **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
