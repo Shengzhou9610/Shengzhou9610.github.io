@@ -10,7 +10,13 @@ Lastest Update: 16th June 2023
 
 ## Thesis
 
-- [Functions and regulations of the Hippo signaling pathway intestinal homeostasis and tumorigenesis](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Shengzhou Wen** (Advisor: Prof. Zhezhuang Xu)<br>Research about hippo signaling by intestinal organoid<br>
+- [Functions and regulations of the Hippo signaling pathway intestinal homeostasis and tumorigenesis](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**Shengzhou Wen** (Advisor: Prof. Zhezhuang Xu)<br>Research about hippo signaling by intestinal organoid<br>**Abstract:** *The intestine is an important digestive organ. Intestinal diseases such as acute or chronic enteritis*
+  *and colorectal cancer pose a great threat to human health, which endows the studies related to intestine with great*
+  *scientific and clinical value. The Hippo signaling pathway plays an important role in proliferation and differentiation*
+  *of intestinal stem cells, and is involved in diverse physiological and pathological processes in the intestine. In this*
+  *review, we summarize known functions and mechanisms of the Hippo signaling pathway in intestinal regeneration*
+  *and tumorigenesis, provide a prospective on future research directions, and discuss potential therapeutic strategies*
+  *targeting the Hippo signaling pathway.*
 
 ## Conference Paper
 
