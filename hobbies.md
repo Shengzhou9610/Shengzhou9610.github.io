@@ -22,11 +22,9 @@ title: Hobbies
 
 ## Swimming & Surfing
 
-<div class="third">
-<img src="/images/swimming.JPG">
-<img src="/images/swimming2.JPG">
-<img src="/images/surfing1.JPG">
-</div>
+<center>
+<img src="/images/8888.png">
+</center>
 
 
 
