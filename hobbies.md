@@ -45,7 +45,7 @@ This is my love. Her name is Qbo (Q宝).
 
 ## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/shengzhouwen/30min) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
 
 <!-- Calendly inline widget begin -->
 
