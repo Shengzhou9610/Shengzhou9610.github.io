@@ -17,14 +17,11 @@ title: Awards
 
 ## Competitions
 
-- June 2023：**First Prize (Provincial Championship)** in Youth Science Popularization Innovation Project Competition
-- May 2023：**Finalist Award** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：**First Prize** (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- Oct 2022：Maynooth International Engineering College **Best Student Project** in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling
+- June 2023: First Prize (Provincial Championship) in Youth Health Popularization Innovation Project Competition
+- May 2023:  Finalist Award in Medical Statistics Contest In Modeling (Top 1% of all 20508 paper)
+- Dec 2022:  First Prize (Provincial Level) in China Undergraduate Medicine Knowledge Contest (Top 8%)
+- Oct 2022:  Maynooth International Medical College Best Student Project in Academic Year 2022
+- Aug 2022:  Third Prize in China National College Student Computer Design Competition
 
 ## Honors
 
