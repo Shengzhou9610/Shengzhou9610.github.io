@@ -6,13 +6,14 @@ title: Awards
 
 ## Scholarships
 
-- May 2023：**XiamenAir Scholarship** (about $1400)<br>One of the highest scholarships in Fujian Province.
-- March 2023：Second Prize Scholarship of FZU ($1400)
+- May 2023: HSBC Medical Scholarship (about $1400)
+- One of the highest scholarships in Shanghai (Top 3% of all)
+- March 2023: Second Prize Scholarship of FDU ($1400)
 - Sep 2022: Best Student Project Award of Maynooth (€100)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.
+- Sep 2022: First Prize Scholarship of FDU ($2100)
+- March 2022: First Prize Scholarship of FDU ($2100)
+- Sep 2021: Third Prize Scholarship of FDU ($700)
+- March 2021: First Prize Scholarship of FDU ($2100)
 
 ## Competitions
 
