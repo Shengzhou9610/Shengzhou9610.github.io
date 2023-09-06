@@ -8,7 +8,7 @@ layout: page
 
 Here is **Shengzhou Wen ( [温胜宙](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I‘ve graduated from Shanghai Medical College of Fudan University with a bachelor's degree in clinical science in 2021. I'm a PhD candidate right now, mainly focusing on stem intestinal cell and Hippo pathway. I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://shengzhou9610.github.io/file/Shengzhou Wen's cv.pdf).
+I‘ve graduated from Shanghai Medical College of Fudan University with a bachelor's degree in clinical science in 2021. I'm a PhD candidate right now, mainly focusing on stem intestinal cell and Hippo pathway. I am extremely fortunate to be advised by [Prof. Faxing Yu](https://ibs.fudan.edu.cn/6c/8e/c21086a224398/page.htm) and [Prof. Yuanlin Song](https://siidb.fudan.edu.cn/_s609/syl/list.psp). Here is [my Resume](https://shengzhou9610.github.io/file/Shengzhou Wen's cv.pdf).
 
 ## Research Interests
 
