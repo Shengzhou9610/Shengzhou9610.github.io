@@ -25,15 +25,16 @@ title: Awards
 
 ## Honors
 
-- May 2023：Outstanding Student Leaders of Fuzhou University
+- May 2023：Outstanding Student Leaders of Fudan University
 - Sep 2022：Nomination for China National Scholarship (3/1200)
 - June 2022：Nomination for China Telecom Scholarship (1/900)
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- May 2021：Merit Student of Fuzhou University
+- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fudan University
+- May 2021：Merit Student of Fudan University
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership
+- 2023 May -Current    International Membership of American College of Physician
+- 2018 – Current            Society of General Internal Medicine (SGIM), Medical Student Membership, assist host
 - Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee, Fudan University
 - Sep 2020 - Sep 2021：Monitor of Shanghai Medical College, Fudan University
 - July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
