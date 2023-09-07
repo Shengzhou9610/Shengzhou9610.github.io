@@ -20,18 +20,22 @@ Lastest Update: 16th June 2023
 
 ## Conference Paper
 
+- [*Case Report of a Rare disease: Castleman Syndrome*](https://shengzhou9610.github.io/mypaper/Mountain2023.pdf)<br>**Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mountain West                                                                                                           Denver, Colorado Oct, 2023.
+
 - [*Consideration of misdiagnosing gastric carcinoma with erosive gastritis*](https://shengzhou9610.github.io/mypaper/NewEngland2022.pdf)<br>**Shengzhou Wen**<br>Post Presentation 28th Society of General Internal Medicine New England<br>Boston, Massachusetts. Sept, 2022.  Poster
 
 -  [*Nontypical ectopic ACTH syndrome cause by pneumonia: A case report*](https://shengzhou9610.github.io/mypaper/Midatlantic2022.pdf)<br>**Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mid-Atlantic                                                                                                      Virtual Online, USA Oct, 2022.  [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
 - [*Sjögren's syndrome with nephrogenic diabetes insipidus as the first manifestation: A*
   *case report*](https://shengzhou9610.github.io/mypaper/MidWest2022.pdf)<br>**Shengzhou Wen**<br>Poster Presentation Society of General Internal Medicine Mid-West                                                                                                           St. Louis, Missouri Oct, 2022.
+  
+  
 
 <br>
 
-## Working Paper
+## Working Conference Paper
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach.<br>**Hanlin Cai** (Advisor: Prof. Pietro Liò and Dr. Chin Hong Wong)<br>[The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (16th June 2023)
+- *Pulmonary Embolism with Dermatomyositis as the First Symptom of Pulmonary Fibrosis: A CaseReport*<br><br>[The latest manuscript](https://shengzhou9610.github.io/mypaper/NewEngland2023.pdf) (6th August 2023)
 
 <br>
 
