@@ -43,14 +43,14 @@ Lastest Update: 16th June 2023
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+#### [FDU-Flying-Book ](https://fzu-fly.online/)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+This is the flying handbook for FDU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
+#### [FDU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
 
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
+Many elegant LaTeX templates designed for FDU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
 
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
+#### [straight-A Material 医学专业修读材料](https://pan.baidu.com/s/1hMQWsofwr5x9WVLeVp0raA?pwd=nbz4 提取码：nbz4)
 
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+This repo is where I keep track of my incredible journey at Shanghai Medical College of FDU. You can learn all medical core courses better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
